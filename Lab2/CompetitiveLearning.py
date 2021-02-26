@@ -6,7 +6,7 @@
 # @time: 2021/02/05
 # @contact: mingj@kth,se
 # @software: PyCharm 
-# May the force be with you.
+# May the Force be with you.
 
 from RBF_Weight_Learning import *
 import random
