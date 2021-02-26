@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33feb1fa-5bbf-4667-bc6a-8b0124d58891" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1onHQoRDM2ZbKeOvgW3LQAyOGX0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trained_rbm_15" />
+      <recent name="$PROJECT_DIR$/trained_rbm_20" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="dbn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rbm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rbm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/envs/rdkit/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.rbm" />
+      <item itemvalue="Python.dbn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.dbn" />
+        <item itemvalue="Python.rbm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33feb1fa-5bbf-4667-bc6a-8b0124d58891" name="Default Changelist" comment="" />
+      <created>1613915420846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613915420846</updated>
+      <workItem from="1613915427365" duration="79407000" />
+      <workItem from="1614258720614" duration="544000" />
+      <workItem from="1614259292832" duration="15869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613916269786">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="213" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804@0.25.1440.804" timestamp="1613916269786" />
+    <state x="436" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614240820176">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="436" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.804@0.25.1440.804" timestamp="1614196453308" />
+    <state x="436" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.805@0.25.1440.805" timestamp="1614240820176" />
+    <state x="410" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614090693336">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="410" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.804@0.25.1440.804" timestamp="1614090693336" />
+    <state x="501" y="25" width="585" height="807" key="#run_(1)" timestamp="1614258840431">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="501" y="25" width="585" height="807" key="#run_(1)/0.25.1440.807@0.25.1440.807" timestamp="1614258840431" />
+    <state width="1251" height="212" key="GridCell.Tab.0.bottom" timestamp="1614291151477">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1398" height="377" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614109687519" />
+    <state width="1251" height="97" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.25.1116.731@0.25.1440.804" timestamp="1614083996576" />
+    <state width="1251" height="268" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1614289930315" />
+    <state width="1251" height="212" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1614291151477" />
+    <state width="1251" height="126" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1614272028135" />
+    <state width="1251" height="55" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1614260663587" />
+    <state width="1251" height="212" key="GridCell.Tab.0.center" timestamp="1614291151476">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1398" height="377" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614109687518" />
+    <state width="1251" height="97" key="GridCell.Tab.0.center/0.25.1440.804/1440.25.1116.731@0.25.1440.804" timestamp="1614083996575" />
+    <state width="1251" height="268" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1614289930314" />
+    <state width="1251" height="212" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1614291151476" />
+    <state width="1251" height="126" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1614272028134" />
+    <state width="1251" height="55" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1614260663586" />
+    <state width="1251" height="212" key="GridCell.Tab.0.left" timestamp="1614291151475">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1398" height="377" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614109687517" />
+    <state width="1251" height="97" key="GridCell.Tab.0.left/0.25.1440.804/1440.25.1116.731@0.25.1440.804" timestamp="1614083996574" />
+    <state width="1251" height="268" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1614289930313" />
+    <state width="1251" height="212" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1614291151475" />
+    <state width="1251" height="126" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1614272028134" />
+    <state width="1251" height="55" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1614260663586" />
+    <state width="1251" height="212" key="GridCell.Tab.0.right" timestamp="1614291151477">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1398" height="377" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614109687518" />
+    <state width="1251" height="97" key="GridCell.Tab.0.right/0.25.1440.804/1440.25.1116.731@0.25.1440.804" timestamp="1614083996576" />
+    <state width="1251" height="268" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1614289930314" />
+    <state width="1251" height="212" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1614291151477" />
+    <state width="1251" height="126" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1614272028135" />
+    <state width="1251" height="55" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1614260663587" />
+    <state width="1251" height="253" key="GridCell.Tab.1.bottom" timestamp="1614003904403">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1251" height="253" key="GridCell.Tab.1.bottom/0.25.1440.805@0.25.1440.805" timestamp="1614003904403" />
+    <state width="1251" height="253" key="GridCell.Tab.1.center" timestamp="1614003904403">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1251" height="253" key="GridCell.Tab.1.center/0.25.1440.805@0.25.1440.805" timestamp="1614003904403" />
+    <state width="1251" height="253" key="GridCell.Tab.1.left" timestamp="1614003904403">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1251" height="253" key="GridCell.Tab.1.left/0.25.1440.805@0.25.1440.805" timestamp="1614003904403" />
+    <state width="1251" height="253" key="GridCell.Tab.1.right" timestamp="1614003904403">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state width="1251" height="253" key="GridCell.Tab.1.right/0.25.1440.805@0.25.1440.805" timestamp="1614003904403" />
+    <state x="302" y="62" key="SettingsEditor" timestamp="1614258799516">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="302" y="62" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1614258799516" />
+    <state x="414" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614019411624">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="414" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.804@0.25.1440.804" timestamp="1614019411624" />
+    <state x="900" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1614093154863">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="900" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.1440.804@0.25.1440.804" timestamp="1614093154863" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab4$rbm.coverage" NAME="rbm Coverage Results" MODIFIED="1614003907122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4$dbn.coverage" NAME="dbn Coverage Results" MODIFIED="1614260060172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4$run.coverage" NAME="run Coverage Results" MODIFIED="1614291151466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
